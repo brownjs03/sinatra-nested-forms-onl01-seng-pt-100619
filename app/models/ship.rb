@@ -4,6 +4,8 @@ class Ship
   
   @@all = [] 
   
+  def initialize(params)
+    
   
   
   def self.clear 
