@@ -5,7 +5,7 @@ class Ship
   @@all = [] 
   
   def initialize(params)
-    
+    @name = 
   
   
   def self.clear 
